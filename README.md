@@ -1,0 +1,3 @@
+# Sentiment-Analysis-using-ANN
+Sentiment Analysis of Airbnb Reviews
+In this project, we perform a coarse-grained sentiment analysis on Airbnb review dataset by proposing a state of the art solution using neural networks and finding the polarity of reviews at a content level. The project is divided into mainly two parts- preprocessing the data and building a neural network using ANN. The preprocessing steps include tokenizing the reviews and converting them into word vectors which are POS tagged which are in turn used to train the ANN model. By performing this analysis, we developed a model which predicts the sentiment of the reviews to an accuracy of 74%. 
